@@ -1,3 +1,5 @@
+	"~/.vimrc
+	"~/.vim/(colors)(pack)
 	" Search options
 set hlsearch
 set ignorecase
