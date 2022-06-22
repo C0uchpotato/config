@@ -1,3 +1,6 @@
+"File location
+"~/.vimrc
+
 " Search options
 set hlsearch
 set ignorecase
