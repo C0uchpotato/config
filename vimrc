@@ -20,6 +20,11 @@ colorscheme sierra
 let mapleader = ","
 
 set clipboard=unnamedplus
+
+"Python run = F9
+autocmd FileType python imap <buffer> <F9> <esc>:w<CR>:exec '!python3' shellescape(@%, 1)<CR>
+
+
 "PLUGIN START: vim-plug
 
 
